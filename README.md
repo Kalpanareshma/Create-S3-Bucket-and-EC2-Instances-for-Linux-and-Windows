@@ -1,8 +1,5 @@
  # CREATE S3 BUCKET AND EC2 INSTANCES FOR LINUX AND WINDOWS
 
-### REG NUMBER : 212222040069
-### NAME : KALPANA S
-
 ## AIM :
 To create an S3 bucket and EC2 instances for both Linux and Windows operating systems on AWS.
 
@@ -41,26 +38,31 @@ Verify the status of both instances in the EC2 dashboard.</br>
 Connect to the Linux instance using SSH.</br>
 Connect to the Windows instance using RDP.</br>
 
-## OUTPUT
+### REG NUMBER : KALPANA S
+### NAME : 212222040069
 
-## S3 BUCKET CREATION:  
-![Screenshot 2024-08-29 112528](https://github.com/user-attachments/assets/23ca7b2b-aca5-438b-8bbf-c9d3d07c6679)
-![Screenshot 2024-08-30 102346](https://github.com/user-attachments/assets/b09bbe34-9a75-4878-9d4d-2deea30ebaea)
-![Screenshot 2024-08-30 102529](https://github.com/user-attachments/assets/17dfc9cd-14ec-4550-84c9-3fc753e11a2f)
+## OUTPUT
+## S3 BUCKET CREATION:
+![image](https://github.com/user-attachments/assets/467d0c8a-b357-425e-a6e4-2af5c2375aa1)
+### CONTENT IN BUCKET :
+![image](https://github.com/user-attachments/assets/676428ea-2d11-4843-9ead-fde081751821)
+
+![image](https://github.com/user-attachments/assets/0c22d8ee-0f24-46cc-822b-129b5212e1b9)
+### VERSIONING :
+![image](https://github.com/user-attachments/assets/b4c61ac0-f9ee-4c2b-821b-9c752037ee9c)
 
 ## EC2:
-![Screenshot 2024-08-30 204842](https://github.com/user-attachments/assets/38175bb3-b8df-4240-85e2-8eecdbbf7cf7)
-![Screenshot 2024-08-30 210052](https://github.com/user-attachments/assets/72f31851-358a-432c-bc6f-8d8a4c2ea6a5)
-![Screenshot 2024-08-30 211448](https://github.com/user-attachments/assets/174f1b08-3b11-41f4-8d5c-839e4388ffff)
+![image](https://github.com/user-attachments/assets/494e864e-d75c-49c8-bf2a-e6d5e15d34d1)
+
+### Linux And Windows :
+![image](https://github.com/user-attachments/assets/01a1e4cf-cff3-47d7-92ba-ba67d75ed25e)
+![image](https://github.com/user-attachments/assets/3a4e87c0-1202-4cb2-a7c4-efd3a068e6ec)
 
 
 ## RESULT
  Successfully created an S3 bucket and EC2 instances for both Linux and Windows, demonstrating cloud resource management on AWS.
 
 
-
-
-
-
+  
 
 
